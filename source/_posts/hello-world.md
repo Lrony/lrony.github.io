@@ -41,6 +41,6 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 
 More info: [简书](http://chitanda.me/2015/06/18/hexo-sync-in-multiple-pc/)
 
-### 嘻嘻嘻
+### 嘻嘻嘻啊
 
 More info: [简书](https://github.com/pinggod/hexo-theme-apollo)
