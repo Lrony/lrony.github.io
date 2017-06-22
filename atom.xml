@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-22T01:36:23.555Z</updated>
+  <updated>2017-06-22T02:03:05.807Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Hexo在Github上搭建博客</title>
+    <link href="http://yoursite.com/2017/06/22/%E4%BD%BF%E7%94%A8Hexo%E5%9C%A8Github%E4%B8%8A%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"/>
+    <id>http://yoursite.com/2017/06/22/使用Hexo在Github上搭建博客.html</id>
+    <published>2017-06-22T02:03:05.000Z</published>
+    <updated>2017-06-22T02:03:05.807Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
