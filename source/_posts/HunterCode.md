@@ -4,35 +4,51 @@ title: Hunter Code
 Welcome to [Hunter for Lrony Blog](https://lrony.github.io/)!  Hunter WebUrl is [LOLHunter](http://www.lolhunter.cn).
 
 <div class="tip">
-    需要注意的是,该段代码块为临时编写使用,无法在正式项目中使用.也无法编译通过！
+    需要注意的是,本文中所有代码块为临时编写使用,无法在正式项目中使用.也无法编译通过！
 </div>
 
 ### Start
+
+### Start for ALL API
+``` java
+// API
+{
+	// My Type
+	{
+		// 位置类型
+		pos {
+			int x, int y
+		};
+	}
+
+	// 获取红色防御塔位置
+	public boolean getRedTower(pos p);
+	// 获取蓝色防御塔位置
+	public boolean getBlueTower();
+	// 当前是否在危险区域
+	public boolean isDangerZone();
+	// 当前是否残血
+	public boolean isSmallBlood();
+	// 获取红色英雄数量以及位置
+	public boolean getRedHero(int num, pos p);
+	// 获取蓝色英雄数量
+	public boolean getBlueHero(int num);
+	// 获取红色小兵数量以及位置
+	public boolean getRedMobs(int num, pos p);
+	// 获取红色小兵数量
+	public boolean getBlueMobs(int num);
+	// 进攻
+	public void Attack(x, y);
+}
+```
+### End for ALL API
+
+### Start for 对战逻辑
 
 ``` java
 // By Hunter for Lrony
 // 2017.08.15
 {
-	// API
-	{
-		// My Type
-		{
-			pos {
-				int x, int y
-			};
-		}
-
-		public boolean getRedTower(pos p);
-		public boolean getBlueTower();
-		public boolean isDangerZone();
-		public boolean isSmallBlood();
-		public boolean getRedHero(int num, pos p);
-		public boolean getBlueHero(int num);
-		public boolean getRedMobs(int num, pos p);
-		public boolean getBlueMobs(int num);
-		public void Attack(x, y);
-	}
-
 	// Code
 	{
 		boolean haveRedTower, haveBlueTower;
@@ -103,6 +119,8 @@ Welcome to [Hunter for Lrony Blog](https://lrony.github.io/)!  Hunter WebUrl is 
 	}
 }
 ```
+### End for 对战逻辑
+
 ### Contact information
 QQ: 29682909
 Email: 29682909@qq.com
