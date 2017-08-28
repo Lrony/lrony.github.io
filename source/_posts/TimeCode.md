@@ -84,7 +84,11 @@ public class MainActivity extends Activity implements OnClickListener {
 	public void onClick(View arg0) {
 		switch (arg0.getId()) {
 		case R.id.btn_open:
-			StartOrStopTime();
+			if (isStart) {
+				StopTime();
+			} else {
+				StartTime();
+			}
 			break;
 		case R.id.btn_clean:
 			calAndStop();
@@ -94,13 +98,13 @@ public class MainActivity extends Activity implements OnClickListener {
 		}
 	}
 
-	private void StartOrStopTime() {
-		if (!isStart) {
-			new Thread(new MyThread()).start();
-			isStart = true;
-		} else {
-			isStart = false;
-		}
+	private void StartTime() {
+		new Thread(new MyThread()).start();
+		isStart = true;
+	}
+
+	private void StopTime() {
+		isStart = false;
 	}
 
 	private void calAndStop() {
