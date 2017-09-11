@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-28T10:15:15.818Z</updated>
+  <updated>2017-09-11T10:00:05.795Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hunter Update</title>
+    <link href="http://yoursite.com/2017/09/11/HunterUpdate.html"/>
+    <id>http://yoursite.com/2017/09/11/HunterUpdate.html</id>
+    <published>2017-09-11T10:00:05.795Z</published>
+    <updated>2017-09-11T10:00:05.795Z</updated>
+    
+    <content type="html"><![CDATA[<!-- <div class="tip">
+    ...
+</div> -->
+<h1 id="2017-8-27"><a href="#2017-8-27" class="headerlink" title="2017/8/27"></a>2017/8/27</h1><ol>
+<li>重构程序结构</li>
+<li>使用XC_GUI作为程序UI库</li>
+</ol>
+<h1 id="2017-8-28"><a href="#2017-8-28" class="headerlink" title="2017/8/28"></a>2017/8/28</h1><ol>
+<li>UI基础框架搭建完毕</li>
+</ol>
+<h1 id="2017-9-9"><a href="#2017-9-9" class="headerlink" title="2017/9/9"></a>2017/9/9</h1><ol>
+<li>完成’首页’’模式’’英雄’页面的UI元素</li>
+</ol>
+<h1 id="2017-9-10"><a href="#2017-9-10" class="headerlink" title="2017/9/10"></a>2017/9/10</h1><ol>
+<li>教师节快乐~!</li>
+<li>完成程序已完成UI功能的配置保存以及读取</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;!-- &lt;div class=&quot;tip&quot;&gt;
+    ...
+&lt;/div&gt; --&gt;
+&lt;h1 id=&quot;2017-8-27&quot;&gt;&lt;a href=&quot;#2017-8-27&quot; class=&quot;headerlink&quot; title=&quot;2017/8/27&quot;&gt;&lt;/a&gt;2017/8/27&lt;/h1&gt;&lt;ol
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Time Code</title>
