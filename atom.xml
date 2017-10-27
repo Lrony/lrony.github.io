@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-27T04:02:30.026Z</updated>
+  <updated>2017-10-27T06:30:50.134Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,14 +19,16 @@
     <title>WorkNotes</title>
     <link href="http://yoursite.com/2017/10/27/WorkNotes.html"/>
     <id>http://yoursite.com/2017/10/27/WorkNotes.html</id>
-    <published>2017-10-27T04:02:30.026Z</published>
-    <updated>2017-10-27T04:02:30.026Z</updated>
+    <published>2017-10-27T06:30:50.134Z</published>
+    <updated>2017-10-27T06:30:50.134Z</updated>
     
     <content type="html"><![CDATA[<p>Kotlin-in-Chinese: <a href="https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/" target="_blank" rel="external">GitBook</a></p>
 <p>自定义VIEW教程: <a href="http://hencoder.com/" target="_blank" rel="external">HenCoder</a></p>
 <p>SWIFT教程: <a href="http://swift.gg/" target="_blank" rel="external">SwiftGG</a></p>
 <p>开发者交流社区: <a href="https://www.diycode.cc/" target="_blank" rel="external">DIYCode</a></p>
 <p>ICON图标大全: <a href="https://www.diycode.cc/topics/717" target="_blank" rel="external">DIYCode</a></p>
+<p>GitHub上star超过2k的安卓项目和代码风格指南: <a href="http://www.suqishuo.cn/android-project-and-code-guidelines/" target="_blank" rel="external">Ernest的Blog</a></p>
+<p>Android 开发面试 “108” 问: <a href="https://www.diycode.cc/topics/993" target="_blank" rel="external">DIYCode</a></p>
 ]]></content>
     
     <summary type="html">
