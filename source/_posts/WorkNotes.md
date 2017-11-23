@@ -28,7 +28,13 @@ Android 开发面试 “108” 问: [DIYCode](https://www.diycode.cc/topics/993)
 
 日记APP: [momentoapp](https://momentoapp.com/)
 
-### BOOK
+好奇心日报: [qdaily](http://www.qdaily.com/)
+
+安卓源码在线: [AndroidOS](https://www.androidos.net.cn/)
+
+扣丁书屋: [codingsky](https://www.codingsky.com/)
+
+### 读书
 
 《灵山》
 
