@@ -2,7 +2,7 @@
 title: WorkNotes
 ---
 
-### 干货满满
+### 【 干货满满 】
 
 Kotlin-in-Chinese: [GitBook](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
 
@@ -22,12 +22,6 @@ Android 开发面试 “108” 问: [DIYCode](https://www.diycode.cc/topics/993)
 
 保健品商场: [IHerb](https://cn.iherb.com/)
 
-### IDEA LIST
-
-灵感生成器: [利器](http://liqi.io/idea-pump/)
-
-日记APP: [momentoapp](https://momentoapp.com/)
-
 好奇心日报: [qdaily](http://www.qdaily.com/)
 
 安卓源码在线: [AndroidOS](https://www.androidos.net.cn/)
@@ -38,7 +32,13 @@ Android 开发面试 “108” 问: [DIYCode](https://www.diycode.cc/topics/993)
 
 WEBQQ分析: [ScienJus's Blog](http://www.scienjus.com/webqq-analysis-1/)
 
-### 读书
+### 【 IDEA LIST 】
+
+灵感生成器: [利器](http://liqi.io/idea-pump/)
+
+日记APP: [momentoapp](https://momentoapp.com/)
+
+### 【 读书 】
 
 《灵山》
 
