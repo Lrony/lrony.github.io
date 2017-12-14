@@ -42,6 +42,6 @@ WEBQQ分析: [ScienJus's Blog](http://www.scienjus.com/webqq-analysis-1/)
 
 《灵山》
 
-### APP
+### 【 APP 】
 
 IOS手机抓包: [Replica](https://itunes.apple.com/cn/app/replica-web-developer-tool/id1068196306?l=en&mt=8)
