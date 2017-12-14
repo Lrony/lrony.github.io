@@ -34,6 +34,10 @@ Android 开发面试 “108” 问: [DIYCode](https://www.diycode.cc/topics/993)
 
 扣丁书屋: [codingsky](https://www.codingsky.com/)
 
+比尔盖茨推荐书: [qdaily](http://www.qdaily.com/articles/47928.html?source=feed&utm_source=gank.io%2Fxiandu&utm_medium=website)
+
+WEBQQ分析: [ScienJus's Blog](http://www.scienjus.com/webqq-analysis-1/)
+
 ### 读书
 
 《灵山》
