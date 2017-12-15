@@ -32,6 +32,8 @@ Android 开发面试 “108” 问: [DIYCode](https://www.diycode.cc/topics/993)
 
 WEBQQ分析: [ScienJus's Blog](http://www.scienjus.com/webqq-analysis-1/)
 
+android 关于先登录成功后再进入目标界面的思考: [掘金](https://juejin.im/post/5a2d23ed51882531ea653578)
+
 ### 【 IDEA LIST 】
 
 灵感生成器: [利器](http://liqi.io/idea-pump/)
