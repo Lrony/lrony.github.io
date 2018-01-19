@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-19T10:04:53.790Z</updated>
+  <updated>2018-01-19T10:08:02.874Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Python</title>
     <link href="http://yoursite.com/2018/01/19/python.html"/>
     <id>http://yoursite.com/2018/01/19/python.html</id>
-    <published>2018-01-19T10:04:53.826Z</published>
-    <updated>2018-01-19T10:04:53.790Z</updated>
+    <published>2018-01-19T10:08:02.942Z</published>
+    <updated>2018-01-19T10:08:02.874Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">from</span> bs4 <span class="keyword">import</span> BeautifulSoup</div><div class="line"><span class="keyword">import</span> requests</div><div class="line"></div><div class="line">url = <span class="string">"http://gank.io/xiandu/wow/page/"</span> + ( input(<span class="string">"page:"</span>) <span class="keyword">or</span> <span class="string">"1"</span> )</div><div class="line">response = requests.get(url)</div><div class="line"><span class="keyword">if</span> response.status_code == <span class="number">200</span>:</div><div class="line">    soup = BeautifulSoup(response.text, <span class="string">'lxml'</span>)</div><div class="line">    <span class="keyword">for</span> div <span class="keyword">in</span> soup.find_all(class_ = <span class="string">'site-title'</span>):</div><div class="line">        print(<span class="string">"\n"</span>, div.string+<span class="string">" : "</span>+div.get(<span class="string">"href"</span>))</div><div class="line">    print()</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 ]]></content>
