@@ -2,6 +2,8 @@
 title: Python
 ---
 
+### 爬取闲读的文章，BeautifulSoup库的使用
+
 ``` python
 from bs4 import BeautifulSoup
 import requests
