@@ -1,5 +1,5 @@
 ---
-title: Python
+title: Python_Xiandu
 ---
 
 ### 爬取闲读的文章，BeautifulSoup库的使用
